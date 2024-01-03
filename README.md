@@ -1,5 +1,10 @@
 You may use the compiled applications to run the game without needing to compile using Processing. For windows users, just run `windows-amd64/one-big-fighters.exe`; for MacOS and Linux users, just run `linux-amd64/one-big-fighters`.
 
+# Screenshots
+![image](https://github.com/hansjarettong/one-big-fighters/assets/60498410/3850bb1c-f9ce-4110-882f-9810798a9516)
+![image](https://github.com/hansjarettong/one-big-fighters/assets/60498410/a5968058-e16d-4a92-91aa-61d2d0b78fd9)
+![image](https://github.com/hansjarettong/one-big-fighters/assets/60498410/e656c2a8-a057-4708-a717-94b971c98179)
+
 
 # Project Report: One Big Fighters
 
